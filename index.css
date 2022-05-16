@@ -88,16 +88,13 @@ em {
 }
 
 footer {
-    /* margin-top: 1%;
-    left: center; */
-    position: absolute;
+    margin-top: 1%;
     left: center;
-    bottom: 3%;
 }
 footer a:link {
     color: var(--soft-violet);
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 60.75rem) {
     main {
         margin: 0 5%;
     }

@@ -145,7 +145,4 @@ footer a:link {
     #queries {
         grid-area: queries;
     }
-    footer {
-        bottom: 3%;
-    }
 }
